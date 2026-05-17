@@ -1,0 +1,2674 @@
+{
+  "generated": "2026-05-17",
+  "summary": [
+    {
+      "sym": "NVDA",
+      "name": "NVIDIA",
+      "accent": "#bef264",
+      "latest_end": "2026-01-25",
+      "price": 225.32,
+      "quote_date": "2026-05-15",
+      "market_cap": 5516509560000.0,
+      "latest_revenue": 68127000000,
+      "latest_net_income": 42960000000,
+      "latest_margin": 0.630586991941521,
+      "ttm_revenue": 215938000000,
+      "ttm_net_income": 120067000000,
+      "ttm_margin": 0.5560253406070261,
+      "ps": 25.54672896850022,
+      "pe": 45.945260229705084,
+      "rev_qoq": 0.1950847279233765,
+      "ni_qoq": 0.34628643058602315,
+      "rev_yoy": 0.7321451272533117,
+      "ni_yoy": 0.94468335521253,
+      "rev_series": [
+        {
+          "end": "2025-01-26",
+          "value": 39.331,
+          "derived": true
+        },
+        {
+          "end": "2025-04-27",
+          "value": 44.062,
+          "derived": false
+        },
+        {
+          "end": "2025-07-27",
+          "value": 46.743,
+          "derived": false
+        },
+        {
+          "end": "2025-10-26",
+          "value": 57.006,
+          "derived": false
+        },
+        {
+          "end": "2026-01-25",
+          "value": 68.127,
+          "derived": true
+        }
+      ],
+      "ni_series": [
+        {
+          "end": "2025-01-26",
+          "value": 22.091,
+          "derived": true
+        },
+        {
+          "end": "2025-04-27",
+          "value": 18.775,
+          "derived": false
+        },
+        {
+          "end": "2025-07-27",
+          "value": 26.422,
+          "derived": false
+        },
+        {
+          "end": "2025-10-26",
+          "value": 31.91,
+          "derived": false
+        },
+        {
+          "end": "2026-01-25",
+          "value": 42.96,
+          "derived": true
+        }
+      ]
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "accent": "#a7f3d0",
+      "latest_end": "2026-03-31",
+      "price": 396.78,
+      "quote_date": "2026-05-15",
+      "market_cap": 4855793640000.0,
+      "latest_revenue": 109896000000,
+      "latest_net_income": 62578000000,
+      "latest_margin": 0.5694292785906675,
+      "ttm_revenue": 422498000000,
+      "ttm_net_income": 160208000000,
+      "ttm_margin": 0.37919232753764515,
+      "ps": 11.49305710322889,
+      "pe": 30.309308149405773,
+      "rev_qoq": -0.034543346101135075,
+      "ni_qoq": 0.8162240603685966,
+      "rev_yoy": 0.21790012633818745,
+      "ni_yoy": 0.8117544875506659,
+      "rev_series": [
+        {
+          "end": "2025-03-31",
+          "value": 90.234,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 96.428,
+          "derived": false
+        },
+        {
+          "end": "2025-09-30",
+          "value": 102.346,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 113.828,
+          "derived": true
+        },
+        {
+          "end": "2026-03-31",
+          "value": 109.896,
+          "derived": false
+        }
+      ],
+      "ni_series": [
+        {
+          "end": "2025-03-31",
+          "value": 34.54,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 28.196,
+          "derived": false
+        },
+        {
+          "end": "2025-09-30",
+          "value": 34.979,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 34.455,
+          "derived": true
+        },
+        {
+          "end": "2026-03-31",
+          "value": 62.578,
+          "derived": false
+        }
+      ]
+    },
+    {
+      "sym": "AAPL",
+      "name": "Apple",
+      "accent": "#9fd3ff",
+      "latest_end": "2026-03-28",
+      "price": 300.23,
+      "quote_date": "2026-05-15",
+      "market_cap": 4421148850790.0,
+      "latest_revenue": 111184000000,
+      "latest_net_income": 29578000000,
+      "latest_margin": 0.2660274859692042,
+      "ttm_revenue": 451442000000,
+      "ttm_net_income": 122575000000,
+      "ttm_margin": 0.2715188219084622,
+      "ps": 9.793392840697145,
+      "pe": 36.068928009708344,
+      "rev_qoq": -0.2265783689028632,
+      "ni_qoq": -0.29738461173005204,
+      "rev_yoy": 0.16595182415922993,
+      "ni_yoy": 0.19362389023405968,
+      "rev_series": [
+        {
+          "end": "2025-03-29",
+          "value": 95.359,
+          "derived": false
+        },
+        {
+          "end": "2025-06-28",
+          "value": 94.036,
+          "derived": false
+        },
+        {
+          "end": "2025-09-27",
+          "value": 102.466,
+          "derived": true
+        },
+        {
+          "end": "2025-12-27",
+          "value": 143.756,
+          "derived": false
+        },
+        {
+          "end": "2026-03-28",
+          "value": 111.184,
+          "derived": false
+        }
+      ],
+      "ni_series": [
+        {
+          "end": "2025-03-29",
+          "value": 24.78,
+          "derived": false
+        },
+        {
+          "end": "2025-06-28",
+          "value": 23.434,
+          "derived": false
+        },
+        {
+          "end": "2025-09-27",
+          "value": 27.466,
+          "derived": true
+        },
+        {
+          "end": "2025-12-27",
+          "value": 42.097,
+          "derived": false
+        },
+        {
+          "end": "2026-03-28",
+          "value": 29.578,
+          "derived": false
+        }
+      ]
+    },
+    {
+      "sym": "MSFT",
+      "name": "Microsoft",
+      "accent": "#7dd3fc",
+      "latest_end": "2026-03-31",
+      "price": 421.92,
+      "quote_date": "2026-05-15",
+      "market_cap": 3141194400000.0,
+      "latest_revenue": 82886000000,
+      "latest_net_income": 31778000000,
+      "latest_margin": 0.3833940593103781,
+      "ttm_revenue": 318273000000,
+      "ttm_net_income": 125216000000,
+      "ttm_margin": 0.39342325613545603,
+      "ps": 9.869496941305107,
+      "pe": 25.08620623562484,
+      "rev_qoq": 0.0198466895524958,
+      "ni_qoq": -0.17369598003016273,
+      "rev_yoy": 0.18297034224873698,
+      "ni_yoy": 0.23056071871127637,
+      "rev_series": [
+        {
+          "end": "2025-03-31",
+          "value": 70.066,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 76.441,
+          "derived": true
+        },
+        {
+          "end": "2025-09-30",
+          "value": 77.673,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 81.273,
+          "derived": false
+        },
+        {
+          "end": "2026-03-31",
+          "value": 82.886,
+          "derived": false
+        }
+      ],
+      "ni_series": [
+        {
+          "end": "2025-03-31",
+          "value": 25.824,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 27.233,
+          "derived": true
+        },
+        {
+          "end": "2025-09-30",
+          "value": 27.747,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 38.458,
+          "derived": false
+        },
+        {
+          "end": "2026-03-31",
+          "value": 31.778,
+          "derived": false
+        }
+      ]
+    },
+    {
+      "sym": "AMZN",
+      "name": "Amazon",
+      "accent": "#fbbf24",
+      "latest_end": "2026-03-31",
+      "price": 264.14,
+      "quote_date": "2026-05-15",
+      "market_cap": 2872258360000.0,
+      "latest_revenue": 181519000000,
+      "latest_net_income": 30255000000,
+      "latest_margin": 0.16667676661947234,
+      "ttm_revenue": 742776000000,
+      "ttm_net_income": 90798000000,
+      "ttm_margin": 0.12224142944844744,
+      "ps": 3.866924025547406,
+      "pe": 31.63349809467169,
+      "rev_qoq": -0.14933969426297877,
+      "ni_qoq": 0.42766138165345424,
+      "rev_yoy": 0.16607244952366274,
+      "ni_yoy": 0.7665090208442809,
+      "rev_series": [
+        {
+          "end": "2025-03-31",
+          "value": 155.667,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 167.702,
+          "derived": false
+        },
+        {
+          "end": "2025-09-30",
+          "value": 180.169,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 213.386,
+          "derived": true
+        },
+        {
+          "end": "2026-03-31",
+          "value": 181.519,
+          "derived": false
+        }
+      ],
+      "ni_series": [
+        {
+          "end": "2025-03-31",
+          "value": 17.127,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 18.164,
+          "derived": false
+        },
+        {
+          "end": "2025-09-30",
+          "value": 21.187,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 21.192,
+          "derived": true
+        },
+        {
+          "end": "2026-03-31",
+          "value": 30.255,
+          "derived": false
+        }
+      ]
+    },
+    {
+      "sym": "META",
+      "name": "Meta",
+      "accent": "#60a5fa",
+      "latest_end": "2026-03-31",
+      "price": 614.23,
+      "quote_date": "2026-05-15",
+      "market_cap": 1574885720000.0,
+      "latest_revenue": 56311000000,
+      "latest_net_income": 26773000000,
+      "latest_margin": 0.47544884658414877,
+      "ttm_revenue": 214963000000,
+      "ttm_net_income": 70587000000,
+      "ttm_margin": 0.3283681377725469,
+      "ps": 7.326310667417183,
+      "pe": 22.311271480584242,
+      "rev_qoq": -0.05982235282332116,
+      "ni_qoq": 0.17590477863668297,
+      "rev_yoy": 0.3307888642057002,
+      "ni_yoy": 0.6085676520067291,
+      "rev_series": [
+        {
+          "end": "2025-03-31",
+          "value": 42.314,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 47.516,
+          "derived": false
+        },
+        {
+          "end": "2025-09-30",
+          "value": 51.242,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 59.894,
+          "derived": true
+        },
+        {
+          "end": "2026-03-31",
+          "value": 56.311,
+          "derived": false
+        }
+      ],
+      "ni_series": [
+        {
+          "end": "2025-03-31",
+          "value": 16.644,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 18.337,
+          "derived": false
+        },
+        {
+          "end": "2025-09-30",
+          "value": 2.709,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 22.768,
+          "derived": true
+        },
+        {
+          "end": "2026-03-31",
+          "value": 26.773,
+          "derived": false
+        }
+      ]
+    },
+    {
+      "sym": "TSLA",
+      "name": "Tesla",
+      "accent": "#f87171",
+      "latest_end": "2026-03-31",
+      "price": 422.24,
+      "quote_date": "2026-05-15",
+      "market_cap": 1493885120000.0,
+      "latest_revenue": 22387000000,
+      "latest_net_income": 477000000,
+      "latest_margin": 0.02130700853173717,
+      "ttm_revenue": 97879000000,
+      "ttm_net_income": 3862000000,
+      "ttm_margin": 0.03945688043400525,
+      "ps": 15.262570316411079,
+      "pe": 386.81644743656136,
+      "rev_qoq": -0.10095980081121236,
+      "ni_qoq": -0.43214285714285716,
+      "rev_yoy": 0.15784846133953967,
+      "ni_yoy": 0.16625916870415658,
+      "rev_series": [
+        {
+          "end": "2025-03-31",
+          "value": 19.335,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 22.496,
+          "derived": false
+        },
+        {
+          "end": "2025-09-30",
+          "value": 28.095,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 24.901,
+          "derived": true
+        },
+        {
+          "end": "2026-03-31",
+          "value": 22.387,
+          "derived": false
+        }
+      ],
+      "ni_series": [
+        {
+          "end": "2025-03-31",
+          "value": 0.409,
+          "derived": false
+        },
+        {
+          "end": "2025-06-30",
+          "value": 1.172,
+          "derived": false
+        },
+        {
+          "end": "2025-09-30",
+          "value": 1.373,
+          "derived": false
+        },
+        {
+          "end": "2025-12-31",
+          "value": 0.84,
+          "derived": true
+        },
+        {
+          "end": "2026-03-31",
+          "value": 0.477,
+          "derived": false
+        }
+      ]
+    }
+  ],
+  "raw": {
+    "AAPL": {
+      "cik": "0000320193",
+      "name": "Apple",
+      "accent": "#9fd3ff",
+      "revenue": [
+        {
+          "period": "2024Q2",
+          "start": "2024-03-31",
+          "end": "2024-06-29",
+          "val": 85777000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-06-29",
+          "end": "2024-09-28",
+          "val": 94930000000,
+          "filed": "2025-10-31",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-29",
+          "end": "2024-12-28",
+          "val": 124300000000,
+          "filed": "2026-01-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2024-12-29",
+          "end": "2025-03-29",
+          "val": 95359000000,
+          "filed": "2026-05-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-03-30",
+          "end": "2025-06-28",
+          "val": 94036000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-06-28",
+          "end": "2025-09-27",
+          "val": 102466000000,
+          "filed": "2025-10-31",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-28",
+          "end": "2025-12-27",
+          "val": 143756000000,
+          "filed": "2026-01-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2025-12-28",
+          "end": "2026-03-28",
+          "val": 111184000000,
+          "filed": "2026-05-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        }
+      ],
+      "net_income": [
+        {
+          "period": "2024Q2",
+          "start": "2024-03-31",
+          "end": "2024-06-29",
+          "val": 21448000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-06-29",
+          "end": "2024-09-28",
+          "val": 14736000000,
+          "filed": "2025-10-31",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-29",
+          "end": "2024-12-28",
+          "val": 36330000000,
+          "filed": "2026-01-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2024-12-29",
+          "end": "2025-03-29",
+          "val": 24780000000,
+          "filed": "2026-05-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-03-30",
+          "end": "2025-06-28",
+          "val": 23434000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-06-28",
+          "end": "2025-09-27",
+          "val": 27466000000,
+          "filed": "2025-10-31",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-28",
+          "end": "2025-12-27",
+          "val": 42097000000,
+          "filed": "2026-01-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2025-12-28",
+          "end": "2026-03-28",
+          "val": 29578000000,
+          "filed": "2026-05-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        }
+      ],
+      "shares": [
+        {
+          "period": "2024Q2",
+          "start": "2024-03-31",
+          "end": "2024-06-29",
+          "val": 15348175000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-06-29",
+          "end": "2024-09-28",
+          "val": -30981430000,
+          "filed": "2025-10-31",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-29",
+          "end": "2024-12-28",
+          "val": 15150865000,
+          "filed": "2026-01-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2024-12-29",
+          "end": "2025-03-29",
+          "val": 15056133000,
+          "filed": "2026-05-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-03-30",
+          "end": "2025-06-28",
+          "val": 14948179000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-06-28",
+          "end": "2025-09-27",
+          "val": -30150480000,
+          "filed": "2025-10-31",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-28",
+          "end": "2025-12-27",
+          "val": 14810356000,
+          "filed": "2026-01-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2025-12-28",
+          "end": "2026-03-28",
+          "val": 14725873000,
+          "filed": "2026-05-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        }
+      ],
+      "quote": {
+        "date": "2026-05-15",
+        "time": "22:00:19",
+        "close": 300.23,
+        "volume": 54862836,
+        "source": "https://stooq.com/q/l/?s=aapl.us&f=sd2t2ohlcv&h&e=csv"
+      }
+    },
+    "MSFT": {
+      "cik": "0000789019",
+      "name": "Microsoft",
+      "accent": "#7dd3fc",
+      "revenue": [
+        {
+          "period": "2024Q2",
+          "start": "2024-03-31",
+          "end": "2024-06-30",
+          "val": 64727000000,
+          "filed": "2025-07-30",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 65585000000,
+          "filed": "2025-10-29",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-10-01",
+          "end": "2024-12-31",
+          "val": 69632000000,
+          "filed": "2026-01-28",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 70066000000,
+          "filed": "2026-04-29",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-03-31",
+          "end": "2025-06-30",
+          "val": 76441000000,
+          "filed": "2025-07-30",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 77673000000,
+          "filed": "2025-10-29",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 81273000000,
+          "filed": "2026-01-28",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 82886000000,
+          "filed": "2026-04-29",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        }
+      ],
+      "net_income": [
+        {
+          "period": "2024Q2",
+          "start": "2024-03-31",
+          "end": "2024-06-30",
+          "val": 22036000000,
+          "filed": "2025-07-30",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 24667000000,
+          "filed": "2025-10-29",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-10-01",
+          "end": "2024-12-31",
+          "val": 24108000000,
+          "filed": "2026-01-28",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 25824000000,
+          "filed": "2026-04-29",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-03-31",
+          "end": "2025-06-30",
+          "val": 27233000000,
+          "filed": "2025-07-30",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 27747000000,
+          "filed": "2025-10-29",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 38458000000,
+          "filed": "2026-01-28",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 31778000000,
+          "filed": "2026-04-29",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        }
+      ],
+      "shares": [
+        {
+          "period": "2024Q2",
+          "start": "2024-03-31",
+          "end": "2024-06-30",
+          "val": -14933000000,
+          "filed": "2025-07-30",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 7470000000,
+          "filed": "2025-10-29",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-10-01",
+          "end": "2024-12-31",
+          "val": 7468000000,
+          "filed": "2026-01-28",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 7461000000,
+          "filed": "2026-04-29",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-03-31",
+          "end": "2025-06-30",
+          "val": -14934000000,
+          "filed": "2025-07-30",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 7466000000,
+          "filed": "2025-10-29",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-10-01",
+          "end": "2025-12-31",
+          "val": 7460000000,
+          "filed": "2026-01-28",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 7445000000,
+          "filed": "2026-04-29",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        }
+      ],
+      "quote": {
+        "date": "2026-05-15",
+        "time": "22:00:19",
+        "close": 421.92,
+        "volume": 50771160,
+        "source": "https://stooq.com/q/l/?s=msft.us&f=sd2t2ohlcv&h&e=csv"
+      }
+    },
+    "AMZN": {
+      "cik": "0001018724",
+      "name": "Amazon",
+      "accent": "#fbbf24",
+      "revenue": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 147977000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 158877000000,
+          "filed": "2025-10-31",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": 187792000000,
+          "filed": "2026-02-06",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 155667000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 167702000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 180169000000,
+          "filed": "2025-10-31",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": 213386000000,
+          "filed": "2026-02-06",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 181519000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        }
+      ],
+      "net_income": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 13485000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 15328000000,
+          "filed": "2025-10-31",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": 20004000000,
+          "filed": "2026-02-06",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 17127000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 18164000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 21187000000,
+          "filed": "2025-10-31",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": 21192000000,
+          "filed": "2026-02-06",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 30255000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        }
+      ],
+      "shares": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 10708000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 10735000000,
+          "filed": "2025-10-31",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": -21392000000,
+          "filed": "2026-02-06",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 10793000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 10806000000,
+          "filed": "2025-08-01",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 10845000000,
+          "filed": "2025-10-31",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": -21617000000,
+          "filed": "2026-02-06",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 10874000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        }
+      ],
+      "quote": {
+        "date": "2026-05-15",
+        "time": "22:00:19",
+        "close": 264.14,
+        "volume": 40770344,
+        "source": "https://stooq.com/q/l/?s=amzn.us&f=sd2t2ohlcv&h&e=csv"
+      }
+    },
+    "GOOGL": {
+      "cik": "0001652044",
+      "name": "Alphabet",
+      "accent": "#a7f3d0",
+      "revenue": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 84742000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 88268000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": 96469000000,
+          "filed": "2026-02-05",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "Revenues",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 90234000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 96428000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 102346000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": 113828000000,
+          "filed": "2026-02-05",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "Revenues",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 109896000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": false
+        }
+      ],
+      "net_income": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 23619000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 26301000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": 26536000000,
+          "filed": "2026-02-05",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 34540000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 28196000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 34979000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": 34455000000,
+          "filed": "2026-02-05",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 62578000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        }
+      ],
+      "shares": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 12495000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 12419000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": -24994000000,
+          "filed": "2026-02-05",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 12291000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 12198000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 12203000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": -24462000000,
+          "filed": "2026-02-05",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 12238000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        }
+      ],
+      "quote": {
+        "date": "2026-05-15",
+        "time": "22:00:19",
+        "close": 396.78,
+        "volume": 20309702,
+        "source": "https://stooq.com/q/l/?s=googl.us&f=sd2t2ohlcv&h&e=csv"
+      }
+    },
+    "META": {
+      "cik": "0001326801",
+      "name": "Meta",
+      "accent": "#60a5fa",
+      "revenue": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 39071000000,
+          "filed": "2025-07-31",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 40589000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": 48386000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 42314000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 47516000000,
+          "filed": "2025-07-31",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 51242000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": 59894000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 56311000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        }
+      ],
+      "net_income": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 13465000000,
+          "filed": "2025-07-31",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 15688000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": 20838000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 16644000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 18337000000,
+          "filed": "2025-07-31",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 2709000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": 22768000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 26773000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        }
+      ],
+      "shares": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 2610000000,
+          "filed": "2025-07-31",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 2600000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": -5221000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 2590000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 2570000000,
+          "filed": "2025-07-31",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 2572000000,
+          "filed": "2025-10-30",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": -5158000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 2564000000,
+          "filed": "2026-04-30",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        }
+      ],
+      "quote": {
+        "date": "2026-05-15",
+        "time": "22:00:18",
+        "close": 614.23,
+        "volume": 13272567,
+        "source": "https://stooq.com/q/l/?s=meta.us&f=sd2t2ohlcv&h&e=csv"
+      }
+    },
+    "NVDA": {
+      "cik": "0001045810",
+      "name": "NVIDIA",
+      "accent": "#bef264",
+      "revenue": [
+        {
+          "period": "2024Q1",
+          "start": "2024-01-29",
+          "end": "2024-04-28",
+          "val": 26044000000,
+          "filed": "2025-05-28",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2024Q2",
+          "start": "2024-04-29",
+          "end": "2024-07-28",
+          "val": 30040000000,
+          "filed": "2025-08-27",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-29",
+          "end": "2024-10-27",
+          "val": 35082000000,
+          "filed": "2025-11-19",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2024-10-27",
+          "end": "2025-01-26",
+          "val": 39331000000,
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-27",
+          "end": "2025-04-27",
+          "val": 44062000000,
+          "filed": "2025-05-28",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-28",
+          "end": "2025-07-27",
+          "val": 46743000000,
+          "filed": "2025-08-27",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-28",
+          "end": "2025-10-26",
+          "val": 57006000000,
+          "filed": "2025-11-19",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2025-10-26",
+          "end": "2026-01-25",
+          "val": 68127000000,
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2026,
+          "concept": "Revenues",
+          "derived": true
+        }
+      ],
+      "net_income": [
+        {
+          "period": "2024Q1",
+          "start": "2024-01-29",
+          "end": "2024-04-28",
+          "val": 14881000000,
+          "filed": "2025-05-28",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q2",
+          "start": "2024-04-29",
+          "end": "2024-07-28",
+          "val": 16599000000,
+          "filed": "2025-08-27",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-29",
+          "end": "2024-10-27",
+          "val": 19309000000,
+          "filed": "2025-11-19",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2024-10-27",
+          "end": "2025-01-26",
+          "val": 22091000000,
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-27",
+          "end": "2025-04-27",
+          "val": 18775000000,
+          "filed": "2025-05-28",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-28",
+          "end": "2025-07-27",
+          "val": 26422000000,
+          "filed": "2025-08-27",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-28",
+          "end": "2025-10-26",
+          "val": 31910000000,
+          "filed": "2025-11-19",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2025-10-26",
+          "end": "2026-01-25",
+          "val": 42960000000,
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        }
+      ],
+      "shares": [
+        {
+          "period": "2024Q1",
+          "start": "2024-01-29",
+          "end": "2024-04-28",
+          "val": 24890000000,
+          "filed": "2025-05-28",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q2",
+          "start": "2024-04-29",
+          "end": "2024-07-28",
+          "val": 24848000000,
+          "filed": "2025-08-27",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-29",
+          "end": "2024-10-27",
+          "val": 24774000000,
+          "filed": "2025-11-19",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q1",
+          "start": "2024-10-27",
+          "end": "2025-01-26",
+          "val": -49708000000,
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-27",
+          "end": "2025-04-27",
+          "val": 24611000000,
+          "filed": "2025-05-28",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-28",
+          "end": "2025-07-27",
+          "val": 24532000000,
+          "filed": "2025-08-27",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-28",
+          "end": "2025-10-26",
+          "val": 24483000000,
+          "filed": "2025-11-19",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2026Q1",
+          "start": "2025-10-26",
+          "end": "2026-01-25",
+          "val": -49112000000,
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        }
+      ],
+      "quote": {
+        "date": "2026-05-15",
+        "time": "22:00:19",
+        "close": 225.32,
+        "volume": 180977639,
+        "source": "https://stooq.com/q/l/?s=nvda.us&f=sd2t2ohlcv&h&e=csv"
+      }
+    },
+    "TSLA": {
+      "cik": "0001318605",
+      "name": "Tesla",
+      "accent": "#f87171",
+      "revenue": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 25500000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 25182000000,
+          "filed": "2025-10-23",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": 25707000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 19335000000,
+          "filed": "2026-04-23",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 22496000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 28095000000,
+          "filed": "2025-10-23",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": 24901000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 22387000000,
+          "filed": "2026-04-23",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "derived": false
+        }
+      ],
+      "net_income": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 1400000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 2173000000,
+          "filed": "2025-10-23",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": 2128000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 409000000,
+          "filed": "2026-04-23",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 1172000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 1373000000,
+          "filed": "2025-10-23",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": 840000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "NetIncomeLoss",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 477000000,
+          "filed": "2026-04-23",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "NetIncomeLoss",
+          "derived": false
+        }
+      ],
+      "shares": [
+        {
+          "period": "2024Q2",
+          "start": "2024-04-01",
+          "end": "2024-06-30",
+          "val": 3481000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q3",
+          "start": "2024-07-01",
+          "end": "2024-09-30",
+          "val": 3497000000,
+          "filed": "2025-10-23",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2024Q4",
+          "start": "2024-09-30",
+          "end": "2024-12-31",
+          "val": -6964000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2025Q1",
+          "start": "2025-01-01",
+          "end": "2025-03-31",
+          "val": 3521000000,
+          "filed": "2026-04-23",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q2",
+          "start": "2025-04-01",
+          "end": "2025-06-30",
+          "val": 3519000000,
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "fp": "Q2",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q3",
+          "start": "2025-07-01",
+          "end": "2025-09-30",
+          "val": 3526000000,
+          "filed": "2025-10-23",
+          "form": "10-Q",
+          "fp": "Q3",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        },
+        {
+          "period": "2025Q4",
+          "start": "2025-09-30",
+          "end": "2025-12-31",
+          "val": -7038000000,
+          "filed": "2026-01-29",
+          "form": "10-K",
+          "fp": "Q4",
+          "fy": 2025,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": true
+        },
+        {
+          "period": "2026Q1",
+          "start": "2026-01-01",
+          "end": "2026-03-31",
+          "val": 3538000000,
+          "filed": "2026-04-23",
+          "form": "10-Q",
+          "fp": "Q1",
+          "fy": 2026,
+          "concept": "WeightedAverageNumberOfDilutedSharesOutstanding",
+          "derived": false
+        }
+      ],
+      "quote": {
+        "date": "2026-05-15",
+        "time": "22:00:19",
+        "close": 422.24,
+        "volume": 52688742,
+        "source": "https://stooq.com/q/l/?s=tsla.us&f=sd2t2ohlcv&h&e=csv"
+      }
+    }
+  }
+}
